@@ -4,7 +4,7 @@
 ## Задание 1
 
 ### Заказчик передал вам 
-[файл](https://github.com/netology-code/sdb-homeworks/blob/main/resources/hw-12-1.xlsx в формате Excel, в котором сформирован отчёт.
+[файл](https://github.com/netology-code/sdb-homeworks/blob/main/resources/hw-12-1.xlsx) в формате Excel, в котором сформирован отчёт.
 
 ### На основе этого отчёта нужно выполнить следующие задания.
 
