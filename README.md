@@ -84,7 +84,7 @@
  
  
 3. `Схема таблиц со связями`  
- ![alt text](https://github.com/ysatii/DB-HW1/blob/main/img/image1_4.jpg)  
+ ![alt text](https://github.com/ysatii/DB-HW1/blob/main/img/image1.jpg)  
 
 
 ## Задание 2
